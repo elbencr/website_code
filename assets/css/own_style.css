@@ -1,0 +1,21 @@
+.menu>li>a {
+    color: black;
+    font-weight: 500;
+}
+
+@media screen and (min-width: 992px) {
+    .sticky-header.fixed.header-middle .menu>li>a {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        color: white;
+    }
+}
+
+header {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white;
+    padding: 5px 5px;
+}
