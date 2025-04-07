@@ -19,3 +19,7 @@ header {
     background-color: white;
     padding: 5px 5px;
 }
+
+.menu.sf-arrows>li>.sf-with-ul {
+    color: black;
+}
